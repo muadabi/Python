@@ -8,6 +8,8 @@
 # > greater-than
 # <= less-than-equal
 # >= greater-than-equal
+# \ back-slash
+# / forward-slash
 
 print "I will now count my chickens:"z
 
