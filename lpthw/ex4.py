@@ -1,8 +1,9 @@
-cars = 100
-spaceInACar = 4.0
-drivers = 30
-passengers = 90
-carsNotDriven = cars - drivers
+cars = 100 # assign an integer to a variable
+spaceInACar = 4.0 # assign a floating-point to a variable
+drivers = 30 # assign an integer to a variable
+passengers = 90 # assign an integer to a variable
+carsNotDriven = cars - drivers # it is performing a subtraction between two variables
+                               # and it assigned to a variable
 carsDriven = drivers
 carpoolCapacity = carsDriven * spaceInACar
 averagePassengersPerCar = passengers / carsDriven

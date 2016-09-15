@@ -1,8 +1,9 @@
 # Number and Math
-# + plus
-# - minus
-# / slash
-# * asterisk
+# + plus - addition
+# - minus - subtraction
+# / slash - division
+# * asterisk - multiplication
+# ** asterisk two times - exponentiation
 # % percent
 # < less-than
 # > greater-than
